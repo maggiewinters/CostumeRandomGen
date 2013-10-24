@@ -12,7 +12,6 @@ $(document).ready(function randomquote(){
 				"skanky pizza",
 				"chipotle burrito",
 				"crayon",
-				"salt & pepper",
 				"a sexy environmentalist",
 				"don't be catwoman",
 				"slutty pumpkin",
@@ -20,10 +19,11 @@ $(document).ready(function randomquote(){
 				"a muggle",
 				"kanye west",
 				"pumpkin spice latte",
-				"lady gaga"
+				"a lichtenstein girl",
+				"three hole punch Jim",
+				"a muffin"
 			
-
-
+		
 
 	]
 	quote = quotes[Math.floor(Math.random() * quotes.length)];
